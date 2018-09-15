@@ -1,4 +1,5 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
+import { Book, BookList, BookInput, BookSearch } from "./components";
 
 class App extends Component {
   render() {
